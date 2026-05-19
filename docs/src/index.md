@@ -1,6 +1,6 @@
-# CTAppTemplate
+# CT-BK-App
 
-Documentation for [CTAppTemplate](https://github.com/control-toolbox/CTAppTemplate.jl).
+Documentation for [CT-BK-App](https://github.com/keep-cnrs/CT-BK-App.jl).
 
 ## Reproducibility
 
