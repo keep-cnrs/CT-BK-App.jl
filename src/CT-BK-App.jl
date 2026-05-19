@@ -1,4 +1,4 @@
-module CT_BK_App
+module CTBKApp
 
 greet() = print("Hello World!")
 
