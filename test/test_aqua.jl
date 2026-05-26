@@ -1,13 +1,13 @@
 function test_aqua()
     @testset "Aqua.jl" begin
         Aqua.test_all(
-            CT-BK-App;
+            CTBKApp;
             ambiguities=false,
             #stale_deps=(ignore=[:SomePackage],),
             deps_compat=(ignore=[:LinearAlgebra, :Unicode],),
             piracies=true,
         )
         # do not warn about ambiguities in dependencies
-        Aqua.test_ambiguities(CT-BK-App)
+        Aqua.test_ambiguities(CTBKApp)
     end
 end

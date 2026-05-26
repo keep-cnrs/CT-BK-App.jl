@@ -1,6 +1,6 @@
-# CT-BK-App
+# CTBKApp
 
-Documentation for [CT-BK-App](https://github.com/keep-cnrs/CT-BK-App.jl).
+Documentation for [CTBKApp](https://github.com/keep-cnrs/CTBKApp.jl).
 
 ## Reproducibility
 
